@@ -11,6 +11,8 @@ struct MemoryGame<CardContent> {
     
     private(set) var cards: Array<Card>
     
+    // MARK: - Complete the function
+    
     func choose(_ card: Card) {
         
     }
